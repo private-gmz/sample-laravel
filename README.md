@@ -34,4 +34,4 @@ e-commerce project using Laravel 8, the project contains two guards (user and ad
 <li>other basic operations.</li>
 </ul>
 to run the project on your localhost follow the link <a href="https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/">setup laravel project</a> <br>
-to setup websocket for real time notifications follow the link: <a href="https://www.linkedin.com/pulse/how-create-simple-real-time-web-app-laravel-sylvan-cahilog?fbclid=IwAR3rg__qb5Xxzra_dx640Rdffk2INzOUl35nfNzPKx2rHpXq_2TcNQR59YU">laravel websocket tutorial</a>
+to setup websocket for real time notifications follow the link <a href="https://www.linkedin.com/pulse/how-create-simple-real-time-web-app-laravel-sylvan-cahilog?fbclid=IwAR3rg__qb5Xxzra_dx640Rdffk2INzOUl35nfNzPKx2rHpXq_2TcNQR59YU">laravel websocket tutorial</a>
