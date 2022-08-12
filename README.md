@@ -6,8 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-e-commerce project using Laravel 8, the project contains two guards (user and admin):
+<h1>This is a sample website/not the complete one<h1>
+e-commerce project using Laravel 8<br>
+The template is free for educational purposes, you can download it from <a href="#"> here <a> <br>
+<h1>The project contains two guards (user and admin):</h1>
 <h3>the user can: </h3> 
 <ul>
 <li>browse products by recent products, category, subCategory, featured and hot-deals products.</li>
